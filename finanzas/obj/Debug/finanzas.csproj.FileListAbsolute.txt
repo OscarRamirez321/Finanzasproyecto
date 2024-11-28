@@ -1,0 +1,11 @@
+C:\Users\oamar\source\repos\finanzas\finanzas\obj\Debug\finanzas.csproj.AssemblyReference.cache
+C:\Users\oamar\source\repos\finanzas\finanzas\obj\Debug\FinanzasPersonales.FormMain.resources
+C:\Users\oamar\source\repos\finanzas\finanzas\obj\Debug\finanzas.FormRegistrarGasto.resources
+C:\Users\oamar\source\repos\finanzas\finanzas\obj\Debug\finanzas.Properties.Resources.resources
+C:\Users\oamar\source\repos\finanzas\finanzas\obj\Debug\finanzas.csproj.GenerateResource.cache
+C:\Users\oamar\source\repos\finanzas\finanzas\obj\Debug\finanzas.csproj.CoreCompileInputs.cache
+C:\Users\oamar\source\repos\finanzas\finanzas\bin\Debug\finanzas.exe.config
+C:\Users\oamar\source\repos\finanzas\finanzas\bin\Debug\finanzas.exe
+C:\Users\oamar\source\repos\finanzas\finanzas\bin\Debug\finanzas.pdb
+C:\Users\oamar\source\repos\finanzas\finanzas\obj\Debug\finanzas.exe
+C:\Users\oamar\source\repos\finanzas\finanzas\obj\Debug\finanzas.pdb
